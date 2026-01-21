@@ -18,21 +18,21 @@ body {
 
 h1, h2 {
   color: #333;
+  margin-top: 10px;
 }
 
 .card {
-  background: #fff;
+  background: #ffffff;
   padding: 12px;
   margin-bottom: 20px;
   border-radius: 6px;
-  box-shadow: 0 0 6px rgba(0,0,0,.1);
+  box-shadow: 0 0 5px rgba(0,0,0,.1);
 }
 
 .table {
-  background: #fff;
+  background: white;
   border-radius: 6px;
   overflow: hidden;
-  margin-bottom: 25px;
 }
 
 .row {
@@ -47,6 +47,3 @@ h1, h2 {
   font-weight: bold;
 }
 
-.row:last-child {
-  border-bottom: none;
-}
